@@ -14,3 +14,5 @@ class School
    binding.pry
   
 end
+
+binding.pry
