@@ -8,6 +8,7 @@ class School
       
     else 
       @roster[grade] = [student]
+    end
   end
   
   def initialize(name)
