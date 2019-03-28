@@ -11,8 +11,6 @@ class School
   @roster = {}
   end
   
-   binding.pry
+  
   
 end
-
-binding.pry
